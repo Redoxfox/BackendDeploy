@@ -1,2 +1,0 @@
-# BackendDeploy
-Deploy Backend .NetCore
